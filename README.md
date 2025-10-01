@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadirJunior&theme=radical)]()
 
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/cenciW?theme=dark&font=Roboto&ext=heatmap](https://leetcard.jacoblin.cool/JadirJunior?theme=dark&font=Roboto&ext=heatmap
+![LeetCode Stats](https://leetcard.jacoblin.cool/JadirJunior?theme=dark&font=Roboto&ext=heatmap](https://leetcard.jacoblin.cool/JadirJunior?theme=dark&font=Roboto&ext=heatmap
 )
 
 
