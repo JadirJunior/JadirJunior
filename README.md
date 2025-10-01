@@ -4,6 +4,11 @@
 ![Jadir Junior Stats](https://github-readme-stats.vercel.app/api?username=JadirJunior&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadirJunior&theme=radical)]()
 
+### LeetCode
+![LeetCode Stats]([https://leetcard.jacoblin.cool/cenciW?theme=dark&font=Roboto&ext=heatmap](https://leetcard.jacoblin.cool/JadirJunior?theme=dark&font=Roboto&ext=heatmap
+))
+
+
 ### Tecnologias
 
 <div style="display: inline-block"><br />
