@@ -6,7 +6,7 @@
 
 ### LeetCode
 ![LeetCode Stats]([https://leetcard.jacoblin.cool/cenciW?theme=dark&font=Roboto&ext=heatmap](https://leetcard.jacoblin.cool/JadirJunior?theme=dark&font=Roboto&ext=heatmap
-))
+)
 
 
 ### Tecnologias
